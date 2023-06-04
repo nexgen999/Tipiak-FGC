@@ -1,7 +1,6 @@
 # Tipiak-FGC
-Tipiak-FGC
 
-**Voici le Mega Thread de r/PiratedGames!** - [traductions](translations/)
+**Voici le Mega Thread de Tipiak-FGC
 ---
 
 ### Composants Necessaires:
