@@ -7,19 +7,20 @@ https://ryochan7.github.io/ds4windows-site/
 
 # Sony 
 
-- PS1 :
+### PS1 :
 - Duckstation : https://github.com/stenzek/duckstation
 - Duckstation netplay : https://github.com/HeatXD/duckstation-netplay
 
-- PS2 :
+### PS2 :
 
-- PS3 :
+### PS3 :
 
-- PS4 :
+### PS4 :
 
-- PSP :
+### PSP :
 
 # Sega
+
 ### Dreamcast naomi atomiswave
 
 - Flycast : https://github.com/flyinghead/flycast
@@ -30,6 +31,20 @@ https://ryochan7.github.io/ds4windows-site/
 ### Wii U
 
 - C-emu : https://cemu.info
+
+### Game Bube & Wii
+
+- Dolphin : https://fr.dolphin-emu.org
+
+### Switch
+
+- Yuzu
+https://yuzu-emu.org
+https://github.com/yuzu-emu/yuzu
+
+- Ryujinx
+https://ryujinx.org
+https://github.com/Ryujinx/Ryujinx
 
 # Microsoft
 
@@ -45,12 +60,14 @@ https://xenia.jp
 # Front-End
 
 ### Emulastation DE (Desktop Edition)
+https://es-de.org
 
 ### playnite 
 https://playnite.link
 https://github.com/JosefNemec/Playnite
 
 ### Launchbox (BigBox)
+https://www.launchbox-app.com
 
 # PC Game Launcher Alternative
 
