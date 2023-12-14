@@ -8,8 +8,8 @@ https://ryochan7.github.io/ds4windows-site/
 # Sony 
 
 - PS1 :
--- Duckstation : https://github.com/stenzek/duckstation
--- Duckstation netplay : https://github.com/HeatXD/duckstation-netplay
+- Duckstation : https://github.com/stenzek/duckstation
+- Duckstation netplay : https://github.com/HeatXD/duckstation-netplay
 
 - PS2 :
 
