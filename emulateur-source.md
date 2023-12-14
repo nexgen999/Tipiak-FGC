@@ -1,6 +1,6 @@
-[Utilitaires Divers] 
+# Utilitaires Divers 
 
-# DS4Windows 
+### DS4Windows 
 
 https://github.com/Ryochan7/DS4Windows
 https://ryochan7.github.io/ds4windows-site/
@@ -8,8 +8,8 @@ https://ryochan7.github.io/ds4windows-site/
 # Sony 
 
 - PS1 :
-Duckstation : https://github.com/stenzek/duckstation
-Duckstation netplay : https://github.com/HeatXD/duckstation-netplay
+-- Duckstation : https://github.com/stenzek/duckstation
+-- Duckstation netplay : https://github.com/HeatXD/duckstation-netplay
 
 - PS2 :
 
